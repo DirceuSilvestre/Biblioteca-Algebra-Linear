@@ -8,8 +8,21 @@ Biblioteca criada para me auxiliar nas correções dos exercícios da matéria d
 
 Use the package manager pip to install Algebra_Linear
 
-'''
+```bash
 pip install Algebra_Linear
-'''
+```
 
 ## Usage
+
+```python
+from Algebra_Linear import Matriz.py
+Matriz.simetrica()
+```
+
+## Author
+
+Dirceu Silvestre
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
