@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
-'''with open("README.md", "r") as f:
+with open("README.md", "r") as f:
     page_description = f.read()
 
 with open("requirements.txt") as f:
-    requirements = f.read().splitlines()'''
+    requirements = f.read().splitlines()
 
 setup(
     name="Algebra_Linear",
@@ -14,7 +14,7 @@ setup(
     description="Biblioteca com funções que geram e calculam vetores e matrizes",
     long_description="",
     long_description_content_type="",
-    url="https://github.com/DirceuSilvestre/Biblioteca-Algebra-Linear"
+    url="https://github.com/DirceuSilvestre/Biblioteca-Algebra-Linear",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
