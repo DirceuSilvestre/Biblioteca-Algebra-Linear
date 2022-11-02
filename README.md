@@ -19,6 +19,12 @@ from Algebra_Linear import Matriz.py
 Matriz.simetrica()
 ```
 
+```python
+from Algebra_Linear import Vetor.py
+ve = Vetor()
+ve.metodosDoObjeto()
+```
+
 ## Author
 
 Dirceu Silvestre
