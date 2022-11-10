@@ -3,6 +3,7 @@ Algebra Linear
 </h1>
 
 Biblioteca criada para me auxiliar nas correções dos exercícios da matéria de Algebra Linear 1 do curso de Ciência da Computação da UFRRJ, e para praticar programação.
+Pacote criado durante a matéria de Algebra Linear 1 da faculdade de Ciência da Computação, unindo os conhecimentos adquiridos em Programação Orientada a Objetos, Estrutura de Dados e o Bootcamp de Ciência de Dados da DIO com a Unimed.
 
 ## Installation
 
